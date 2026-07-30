@@ -240,9 +240,7 @@ Through this project, I learned:
 
 **Abdul Subhan**
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+GitHub: https://github.com/abdulsubhan62706-cmyk
 
 ---
 
